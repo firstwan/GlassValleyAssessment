@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlassValley", "GlassValley\GlassValley.csproj", "{C5616567-FF91-4B23-BA5F-82A72A30FA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassValleyUnitTest", "GlassValleyUnitTest\GlassValleyUnitTest.csproj", "{ACD4868E-4BB5-421D-BD80-63808D230687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5616567-FF91-4B23-BA5F-82A72A30FA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5616567-FF91-4B23-BA5F-82A72A30FA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5616567-FF91-4B23-BA5F-82A72A30FA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5616567-FF91-4B23-BA5F-82A72A30FA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD4868E-4BB5-421D-BD80-63808D230687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD4868E-4BB5-421D-BD80-63808D230687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD4868E-4BB5-421D-BD80-63808D230687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD4868E-4BB5-421D-BD80-63808D230687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E94AD945-9CBC-4833-9463-08C9A95643AB}
+	EndGlobalSection
+EndGlobal
